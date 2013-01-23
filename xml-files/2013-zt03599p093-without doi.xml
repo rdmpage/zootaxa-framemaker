@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="zt03599p093.css" type="text/css" charset="UTF-8"?>
+<XML>
+<TITLE> </TITLE><Body>
+<A ID="pgfId-999683"></A>
+</Body>
+<zootaxaPara>
+<A ID="pgfId-1003704"></A>
+</zootaxaPara>
+<Body>
+<A ID="pgfId-1007126"></A>
+</Body>
+<Body>
+<A ID="pgfId-1011314"></A>
+</Body>
+<ZootaxaTitle>
+<A ID="pgfId-1011315"></A>
+http://zoobank.org/urn:lsid:zoobank.org:pub:95AA2689-0FED-4D54-8F2A-AEE2E6215E4E</ZootaxaTitle>
+<Body>
+<A ID="pgfId-1008266"></A>
+</Body>
+<ZootaxaTitle>
+<A ID="pgfId-1007871"></A>
+</ZootaxaTitle>
+<ZootaxaTitle>
+<A ID="pgfId-1008946"></A>
+Bambuina bambui: a new genus and species of cave cricket from Brazil (Orthoptera: Grylloidea: Phalangopsidae: Luzarinae)</ZootaxaTitle>
+<ZootaxaPara2011>
+<A ID="pgfId-1008947"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008950"></A>
+FRANCISCO DE A. G. DE MELLO<A ID="OLE_LINK7"></A>
+<A ID="OLE_LINK8"></A>
+1, LÍLIA S. HORTA2 &amp; MARCIO P. BOLFARINI1</ZootaxaPara2011>
+<zootaxaAddress>
+<A ID="pgfId-1008951"></A>
+1Departamento de Zoologia, Instituto de Biociências, Universidade Estadual Paulista &quot;Júlio de Mesquita Filho&quot; (UNESP). 18618-000 Botucatu, SP, Brasil. Email: framello@ibb.unesp.br</zootaxaAddress>
+<zootaxaAddress>
+<A ID="pgfId-1009096"></A>
+2Grupo Bambuí de Pesquisas Espeleológicas, Avenida Nossa Senhora do Carmo 221, salas 307/308. 30360-740 Belo Horizonte, Minas Gerais, Brasil</zootaxaAddress>
+<ZootaxaPara2011>
+<A ID="pgfId-1008953"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009110"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1008954"></A>
+Abstract</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1008955"></A>
+</ZootaxaPara2011>
+<Abstract>
+<A ID="pgfId-1008956"></A>
+Bambuina bambui, a new genus and species of phalangopsid cricket, is described from Gruta do Centenário, a quartzite cave located in Serra do Inficionado (Inficionado Ridge), <A ID="OLE_LINK1"></A>
+<A ID="OLE_LINK2"></A>
+a subset of mountains belonging to the Serra do Caraça (Caraça Ridge) complex in the State of Minas Gerais, Brazil.</Abstract>
+<Abstract>
+<A ID="pgfId-1008959"></A>
+</Abstract>
+<Abstract>
+<A ID="pgfId-1008960"></A>
+Key words: cave cricket, Grylloidea, Phalangopsidae, Luzarinae, description</Abstract>
+<ZootaxaPara2011>
+<A ID="pgfId-1008961"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009163"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1008962"></A>
+Resumo</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1008963"></A>
+</ZootaxaPara2011>
+<Abstract>
+<A ID="pgfId-1008964"></A>
+Bambuina bambui, um novo gênero e espécie de grilo falangopsídeo é descrito a partir de espécimes obtidos na Gruta do Centenário, uma caverna de quartzo localizada na Serra do Inficionado, um subconjunto de montanhas pertencentes ao complexo da Serra do Caraça no estado de Minas Gerais, Brasil. </Abstract>
+<Abstract>
+<A ID="pgfId-1008965"></A>
+</Abstract>
+<Abstract>
+<A ID="pgfId-1008966"></A>
+Palavras-chave: Grilo cavernícola, Grylloidea, Phalangopsidae, Luzarinae, descrição</Abstract>
+<ZootaxaPara2011>
+<A ID="pgfId-1008967"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008968"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1008969"></A>
+Introduction</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1008971"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008972"></A>
+According to Desutter-Grandcolas (1995), the biogeographic region with the highest number of cave-dwelling crickets is the neotropics, especially Central America, where species belonging to six genera are found in caves of the mainland: Paracophus Chopard, 1947; Tohila Hubbell, 1938; Longuripes Desutter-Grandcolas, 1993; Arachnopsita Desutter-Grandcolas &amp; Hubbell, 1993; Mayagryllus Desutter-Grandcolas &amp; Hubbell, 1993; and Noctivox Desutter-Grandcolas &amp; Hubbell, 1993. One genus is found in Cuba: Cophus Saussure, 1874. The genus Amphiacusta Saussure, 1874, endemic to the Greater and Lesser Antilles also has cave-dwelling representatives (Desutter-Grandcolas &amp; Otte, 1997). </ZootaxaPara2011>
+<ZootaxaPara2>
+<A ID="pgfId-1008973"></A>
+Regarding South America, Desutter-Grandcolas (1995) describes Anophtalmotes, with species from Chile and Venezuela, and mentions the following four genera with species collected from caves: Aclodes Hebard, 1928; Endecous Saussure, 1878; Dyscophogryllus (Rehn, 1901)—and Phalangopsis Serville, 1831. To these it should be added: Eidmanacris Chopard (1956) and Strinatia Chopard, 1970. Species of Palpigera Hebard, 1928 and Melanotes Desutter-Grandcolas, 1993 are also known to spend daytime in smaller soil burrows such as armadillo galleries (Desutter-Grandcolas, 1993; de Mello, personal observation).</ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1008974"></A>
+Here we describe a new genus and species of phalangopsid cricket belonging to Desutter’s (1990) “Group C” of the Luzarinae. The species was found in a quartzite cave named &quot;Gruta do Centenário&quot;, located in the surroundings of Mariana and Catas Altas, State of Minas Gerais, Brazil. </ZootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1009184"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1008976"></A>
+Methods</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1008977"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008978"></A>
+The specimens were collected manually in the cave known as Gruta do Centenário, located on &quot;Serra do Inficionado&quot; (Inficionado Ridge), a group of mountains belonging to the much larger &quot;Serra do Caraça&quot; (Caraça Ridge). Mainly vertical, it has 3,790 m of horizontal projection and vertical amplitude of 481 m. The upper entrance is located at 2,050 m altitude, other main entrances are at 1,958 m; 1,881 m (Inficionado Abyss) and 1,944 m (Velózia Abyss).</ZootaxaPara2011>
+<ZootaxaPara2>
+<A ID="pgfId-1008979"></A>
+Drawings, comparisons and descriptions were made under a stereomicroscope; a graduated eyepiece was employed for measurements. The male genitalia, after dissection, were treated with 10% potassium hydroxide solution for 24 hours to remove muscular tissues, and then analyzed. </ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1008980"></A>
+Photographs were taken with a stereomicroscope (Zeiss SteREO Discovery V.20), and the images were treated with image-editing software (Photoshop CS3). We employ the phallic-complex terminology of Desutter (1987, 1988, 1990), with the corrections made by that author in a subsequent contribution (Desutter-Grandcolas, 2003).</ZootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1008981"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008982"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1008983"></A>
+Results</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1008984"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008985"></A>
+Bambuina de Mello, Horta &amp; Bolfarini n. gen.</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008986"></A>
+(Figs. 1 to 25)</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008987"></A>
+</ZootaxaPara2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1008988"></A>
+Type species: Bambuina bambui, n. sp., here designated.</ZootaxaRef2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008989"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008990"></A>
+<A ID="OLE_LINK9"></A>
+<A ID="OLE_LINK10"></A>
+Etymology. Genus named after the Brazilian speleology team &quot;Grupo Bambuí de Pesquisas Espeleológicas&quot;, of which the second author of this article is a member. </ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008996"></A>
+	Diagnosis. Clypeus inflated; apical portion of male forewings short, rolled, hiding a hairy glandular area; metanotum non-glandular, bearing a pair of small dorsal spines; pseudepiphallic spines blade-shaped, its distal margin covered by short bristles. </ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1008999"></A>
+	Description. Eyes very prominent, sub-pyriform, superior border evenly rounded, inferior one acuminated. Three small ocelli present. Clypeus inflated. Tip of maxillary palpi globose, apical truncation occupying ca. 1/4 of the length of 5th joint. Male fore wings velvety, abbreviated, sub-triangular, bearing a single longitudinal vein; the apical portion rolled down, hiding a hairy glandular area. Metanotum non-glandular, bearing a pair of small spines on dorsum. Tibia I with one pair of apical spurs on inferior side; tibia II also with one pair of apical spurs on inferior side but some specimens show an additional small spur on the supero-internal point (the condition of this particular spur is occasionally asymetrical on the same individual, being present in one of the tibia II but absent in the other). Tibia III with median apical spurs the longest on both sides. Male subgenital plate with a median membranous area on the distal half, which narrows toward the tip. Phallic complex: without glands; pseudepiphallic spines blade-shaped, not tubular, distal emargination covered with short bristles; pseudepiphallic parameres I very large in relation to pseudepiphallic parameres II; ectophallic apodemes rather short and stout; ectophallic arc located anteriorly to the base of the pseudepiphallic sclerite; endophallic sclerite small, bearing a distinct, longitudinal, crest-shaped, dorsal apodeme. Female apterous; ovipositor shorter than hind femora.</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009000"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009205"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1009001"></A>
+Key to sort Bambuina from related genera found in caves of southeast Brazil</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1009212"></A>
+</ZootaxaPara2011>
+<key>
+<A ID="pgfId-1009002"></A>
+1a	Male fore wings well developed, dorsal field of right one covering dorsal field of left, pars stridens and specialized venation and areas for broadcasting sound present; auditory tympanum present on inner face of fore tibia		 Endecous Saussure, 1878</key>
+<key>
+<A ID="pgfId-1009003"></A>
+1b	Male fore wings abbreviated, triangular or rounded, right one never covering the left, specialized veins or areas to produce and broadcast sound absent, presence of a single longitudinal vein (or traces of it) separating the dorsal from lateral fields 		2</key>
+<key>
+<A ID="pgfId-1009004"></A>
+2a	Male fore wings sub-triangular, inner margins not juxtaposed, apical portion glandular (glands quite regressed in some species of Eidmanacris) 		 3</key>
+<key>
+<A ID="pgfId-1009231"></A>
+2b	Male fore wings rounded, inner margins parallel, juxtaposed to each other, non-glandular 	 Strinatia Chopard, 1970</key>
+<key>
+<A ID="pgfId-1009235"></A>
+3a	Tip of maxillary palpi non-globose, apical truncation elongate; apex of fore wings not rolled; metanotum glandular; male abdomen nearly cylindrical; ectophallic arc located posteriorly to the base of pseudepiphallic sclerite; endophallic apodeme long		 Eidmanacris Chopard, 1956</key>
+<key>
+<A ID="pgfId-1011013"></A>
+3b	Apical truncation of maxillary palpi short and globose, apex of fore wings rolled; metanotum non-glandular, male abdomen much narrower distad than cephalad; ectophallic arc located anteriorly to the base of pseudepiphallic sclerite; endophallic apodeme short		 Bambuina, n. gen.</key>
+<ZootaxaPara2011>
+<A ID="pgfId-1011014"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1011015"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1009012"></A>
+Bambuina bambui de Mello, Horta &amp; Bolfarini n. sp.</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1009013"></A>
+(Table I; figs. 1 to 25)</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009014"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009015"></A>
+Etymology. species named after the Brazilian speleology team &quot;Grupo Bambuí de Pesquisas Espeleológicas&quot;, of which the second author of this article is a member. </ZootaxaPara2011>
+<ZootaxaPara2>
+<A ID="pgfId-1009016"></A>
+Material examined: Holotype male, Brazil, MG, Mariana, Gruta do Centenário, 5-6/iv/1996, L. S. Horta (leg.); Paratypes: 6 males, 5 females, same locality, 2-6/xi/1997, same collector. </ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1011058"></A>
+Repository: Holotype male, 2 male, 4 female paratypes at Museu de Zoologia da Universidade de São Paulo (MZSP); 4 male, 3 female paratypes at the Entomological Collection, Botucatu Campus of São Paulo State University- UNESP- Brazil. </ZootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1011062"></A>
+</ZootaxaPara2011>
+<DIV>
+<IMAGE xml:link="simple" href="zt03599p093-1.gif" show="embed" actuate="auto"/>
+</DIV>
+<ZootaxaPara2011>
+<A ID="pgfId-1011063"></A>
+FIGURES 1–8. Bambuina bambui, n. sp. 1, 2, anterior portion of male, dorsal and lateral respectively. 3, front view of male head. 4, right male tegmen, lateral. 5, left male tegmen, ventral. 6, male metanotum, dorsal. 7, male supra-anal plate, dorsal. 8, male subgenital plate, ventral.</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1011096"></A>
+</ZootaxaPara2011>
+<DIV>
+<IMAGE xml:link="simple" href="zt03599p093-2.gif" show="embed" actuate="auto"/>
+</DIV>
+<ZootaxaPara2011>
+<A ID="pgfId-1011097"></A>
+FIGURES 9–14. Bambuina bambui, n. sp. 9, 10, 11, phallic complex in dorsal, ventral and lateral views, respectively (distal pilosity of pseudpseudepiphallic spine omitted). 12, dorsal view of pseudpseudepiphallic parameres after removal of pseudpseudepiphallic spines. 13, 14, dorsal and lateral views of copulatory papilla. Conventions (after Desutter 1987, 1988, 1990): Ect. Ap.—ectophallic apodeme; Ect. Arc—ectophallic arc; Ect. F.—ectophallic fold; Ps. S.—pseudpseudepiphallic spine; Ps. P.—pseudpseudepiphallic paramere; Memb.—membrane. Terminology follows Desutter (1987, 1988, 1990). </ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1011101"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1011278"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2>
+<A ID="pgfId-1011073"></A>
+Description. Male: general coloration medium brown to light yellow (fig. 15); occiput light brown with four yellowish vittae, the two external ones incomplete, running half-way from edge of eyes towards hind margin of head (vittae indistinct in some specimens); antennal sockets broad and depressed, yellowish on dorsal and ventral surfaces but darker laterally; flagellum light brown, more than 3 times as long as body; gena light yellow; frons and vertex medium brown; clypeus light yellow, inflated; labrum nearly white (fig. 16); maxillary palpi light yellow, distal half of 5th joint whitish (fig. 19); external upper portion of mandibles nearly white. Pronotum saddle-shaped, the disk light yellow surrounded by a broad light brown band along the margins (fig. 15). Forewings mostly light brown but yellowish in the apical region and along the longitudinal vein (fig. 22). Metanotum and supra-anal plate yellowish, shaped as in figs. 6 and 7 respectively. Subgenital plate (figs. 8; 25) with a large whitish central area surrounded by light brown; remaining sternites nearly white. Legs I and II rather long, the color varying from nearly white to medium brown; leg III not especially long for the group. Phallic complex as in figs. 9 to 12. Female: rather similar to male; forewings reduced to a scale barely visible beyond pronotal margin; hind margin of supra-anal plate broadly concave with rounded angles; copulatory papilla as in figs. 13 and 14.</ZootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1011128"></A>
+</ZootaxaPara2011>
+<DIV>
+<IMAGE xml:link="simple" href="zt03599p093-3.gif" show="embed" actuate="auto"/>
+</DIV>
+<ZootaxaPara2>
+<A ID="pgfId-1011117"></A>
+FIGURES 15–25. Bambuina bambui, n. sp. male. 15—dorsal view of body; 16—frontal view of head; 17—lateral view of head and pronotum; 18—perpendicular view of eye; 19—maxillary palpi; 20,<A ID="OLE_LINK13"></A>
+<A ID="OLE_LINK14"></A>
+ 21—metanotum structure; 22—dorsal view of fore wings; 23—supra-anal plate; 24—metanotum structure, lateral view; 25—subgenital plate.</ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1011145"></A>
+</ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1011156"></A>
+</ZootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1009260"></A>
+	Discussion. The elongated shape of male forewings and the presence of a glandular area at the tips of Bambuina bambui, n. sp. resemble some species of Eidmanacris (Chopard, 1956), but the rolled down condition of wing tips is an autapomorphy of the new genus. </ZootaxaPara2011>
+<ZootaxaPara2>
+<A ID="pgfId-1009022"></A>
+The presence of a pair of dorso-lateral laminar pseudepiphallic spine in Bambuina is a condition shared with several other genera, e.g., Eidmanacris; Strinatia Chopard, 1970; Endophallusia de Mello, 1990; Grandcolasia Desutter-Grandcolas, 1992 (originally named Smicrotes); Ottedana de Mello &amp; de Andrade, 2003 and Adenopygus Bolfarini &amp; de Mello, 2012. </ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1009023"></A>
+The reduced size and inconspicuousness of pseudepiphallic paramere I in Bambuina is also found in Guabamima de Mello, 1993 and Mellopsis Mews et al., 2010 [in their article, the authors have misidentified the pseudepiphallic paramere I in Mellopsis doucasae, Mellopsis zefae (this last species clearly belonging to an undescribed genus that one of us- FAGM- have collected in the States of Espirito Santo and Rio de Janeiro, Brazil), and in the three species of Guabamima they have described]. As opposed to that, the pseudepiphallic paramere I is well developed and conspicuous in the following genera: Bambuina, Eidmanacris, Endophallusia, Strinatia, Grandcolasia, Ottedana and Adenopygus. </ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1009024"></A>
+The hyper-development of pseudepiphallic paramere II is also shared by Bambuina, Guabamima and Mellopsis doucasae, as well as in more distanlty related genera like Aracamby de Mello, 1993; Vanzoliniella de Mello &amp; Cesar dos Reis, 1994, and the incorrect Mellopsis zefae of Mews et al., 2010. </ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1009025"></A>
+In Bambuina, Eidmanacris, Endophallusia, Grandcolasia, Strinatia, Ottedana and Adenopygus, the endophallic sclerite is extremely variable in size but in all those genera, only a dorsal, lamelliform or crest-shaped apodeme is present (sometimes confined to the anterior extremity of the structure, as in Eidmanacris, Endophallusia and Grandcolasia). On the other hand, in Guabamima, Mellopsis, and in the undescribed new genus in which Mews et al., 2010 placed) Mellopsis zefai the endophallic sclerite has a pair of large antero-lateral apodemes, a very different condition than that in the former cases.</ZootaxaPara2>
+<ZootaxaPara2>
+<A ID="pgfId-1009026"></A>
+For more information on the phallic complexes of this group of crickets, see the discussion in de Mello &amp; de Andrade, 2003. </ZootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1009028"></A>
+	Additional remarks. One of us (LSH) observed these crickets during day and night time on the walls and floor of the cave, the latter being covered by meters of bird guano (Apodidae: Streptoprocnes zonaris and S. biscutata). Cricket specimens were found all over the cave but the relative abundance decreases in the aphotic zone, as well as the guano concentration. </ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1010939"></A>
+</ZootaxaPara2011>
+<Body>
+<A ID="pgfId-1009820"></A>
+TABLE 1 Measurements (mm) of adult specimens of Bambuina bambui, n. sp. Conventions: BL—body length; HW—head width; IOD—inter-ocular distance; PL—pronotum length; PW—pronotum width; FWL—fore wing length; FWW—fore wing width; HFL—hind femur length; HTL—hind tibia length; OL—ovipositor length. </Body>
+<TABLE>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010577"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010579"></A>
+BL</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010581"></A>
+HW</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010583"></A>
+IOD</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010585"></A>
+PL</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010587"></A>
+PW</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010601"></A>
+Males (n=6)</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010603"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010605"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010607"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010609"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010611"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010613"></A>
+Range</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010615"></A>
+15.4–20.8</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010617"></A>
+2.9–3.7</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010619"></A>
+1.35–1.85</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010621"></A>
+2.6–2.91 </ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010623"></A>
+3.85–4.9</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010625"></A>
+Mean</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010627"></A>
+18.9</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010629"></A>
+3.37</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010631"></A>
+2.03</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010633"></A>
+3.05</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010635"></A>
+4.39</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010661"></A>
+Females (n=5)</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010663"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010665"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010667"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010669"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010671"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010673"></A>
+Range</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010675"></A>
+18.8–22.7</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010677"></A>
+3.54–4.3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010679"></A>
+1.7–2.75</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010681"></A>
+3.25–4.4</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010683"></A>
+4.46–5.3</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010685"></A>
+Mean</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010687"></A>
+21.02</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010689"></A>
+3.93</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010691"></A>
+2.23</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010693"></A>
+3.52</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010695"></A>
+4.84</ZootaxaPara2011>
+</CELL>
+</ROW>
+</TABLE>
+<ZootaxaPara2011>
+<A ID="pgfId-1009031"></A>
+continued.</ZootaxaPara2011>
+<TABLE>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010297"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010299"></A>
+FWL</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010301"></A>
+FWW</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010303"></A>
+HFL</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010305"></A>
+HTL</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010307"></A>
+OL</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010321"></A>
+Males (n=6)</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010323"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010325"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010327"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010329"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010331"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010333"></A>
+Range</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010335"></A>
+3.18–4.28</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010337"></A>
+4.2–5.0</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010339"></A>
+10.32–14.28</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010341"></A>
+12.7–16.25</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010343"></A>
+/</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010345"></A>
+Mean</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010347"></A>
+3.69</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010349"></A>
+4.6</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010351"></A>
+12.54</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010353"></A>
+15.08</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010355"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010381"></A>
+Females (n=5)</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010383"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010385"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010387"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010389"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010391"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010393"></A>
+Range</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010395"></A>
+/</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010397"></A>
+/</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010399"></A>
+15.65–19.65 </ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010401"></A>
+15.1–23.41</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010403"></A>
+7.1–12.5</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010405"></A>
+Mean</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010407"></A>
+/</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010409"></A>
+/</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010411"></A>
+18.15</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010413"></A>
+19.02</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1010415"></A>
+10.74</ZootaxaPara2011>
+</CELL>
+</ROW>
+</TABLE>
+<ZootaxaPara2011>
+<A ID="pgfId-1009032"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1010916"></A>
+Acknowledgments</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009281"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009033"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1011177"></A>
+This paper was made possible by grants received from the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), MCT/ CNPq/ MMA/ MEC/ CAPES/ FNDCT – Ação Transversal/FAPs No. 47/2010—SISBIOTA de Orthoptera do Brasil, and FAPEMIG (Fundação de Amparo à Pesquisa do Estado de Minas Gerais). We are indebted to Grupo Bambuí de Pesquisas Espeleológicas for making the material of its speleological expeditions available for study. We also thank Emanuelle Corbi Tristão for reading the manuscript. </ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009034"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009035"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009036"></A>
+Literature cited</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009288"></A>
+</ZootaxaPara2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009037"></A>
+<A href="http://dx.doi.org/10.1665/1082-6467(2003)012[0141:OCANGA]2.0.CO;2" xml:link="simple" show="replace" actuate="user" CLASS="URL">De Mello, F.A.G. &amp; de Andrade, M. Ap. B.S. (2003) Ottedana cercalis: a new genus and species of phalangopsid cricket from the Mantiqueira Range of southeastern Brazil (Orthoptera: Grylloidea). Journal of Orthoptera Research, 12(2), 141–148. http://dx.doi.org/10.1665/1082-6467(2003)012[0141:OCANGA]2.0.CO;2</A></ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009038"></A>
+Desutter, L. (1987) Structure et evolution du complexe phalique des Gryllidea Orthoptères) et classification des genres Néotropicaux de Grylloidea. Premiére partie. Annales de la Société entomologique de France, 23(3), 213–239.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009042"></A>
+Desutter, L. (1988) Structure et evolution du complexe phalique des Gryllidea Orthoptères) et classification des genres Néotropicaux de Grylloidea. Deuxiéme partie. Annales de la Société entomologique de France, 24(3), 343–373.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009044"></A>
+Desutter, L. (1990) Etude phylogénétique, biogéographique et écologique des Grylloidea Néotropicaux (Insectes, Orthoptéres). Thesis. Universite de Paris-Sud, Centre dÓrsay. 347p.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009046"></A>
+Desutter-Grandcolas (1993) Melanotes n. gen. et Koleinoma n. gen., deux genres de Luzarinae à écologie nouvelle pour la sous-famille (Orthoptera: Grylloidea: Phalangopsidae). Bulletin de la Société entomologique de France, 98(3), 275–286.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009048"></A>
+Desutter-Gradcolas, L. (1995) Noveaux Grillons Cavernicolas De La Région Néotropicale (Orthoptera, Grylloidea, Phalangopsidae) Revue Française d'Entomologie, 17(3), 97–106. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009050"></A>
+Desutter-Grandcolas, L. &amp; Otte, D. (1997) Revision of the West Indian genus<apple-converted-space>
+ </apple-converted-space>
+AmphiacustaSaussure, 1874, with descriptions of twenty new species (Orthoptera: Grylloidea: Phalangopsidae). Annales de la Société entomologique de France, 33(1), 101–128. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1009053"></A>
+<A href="http://dx.doi.org/10.1665/1082-6467(2003)012[0141:OCANGA]2.0.CO;2" xml:link="simple" show="replace" actuate="user" CLASS="URL">Desutter-Grandcolas, L. (2003) Phylogeny and the evolution of acoustic communication in extant Ensifera (Insecta, Orthoptera). Zoologica Scripta, 32(5), 525–561. http://dx.doi.org/10.1046/j.1463-6409.2003.00142.x</A></ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1011220"></A>
+<A href="http://dx.doi.org/10.1080/01650521.2010.524535" xml:link="simple" show="replace" actuate="user" CLASS="URL">Mews, C.M., Szinwelski, N. &amp; Sperber, C.F. (2010) A new genus and new species of Brazilian Luzarinae crickets (Grylloidea: Phalangopsidae). Studies on Neotropical Fauna and Environment, 45(3), 159–174. http://dx.doi.org/10.1080/01650521.2010.524535</A></ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1011208"></A>
+</ZootaxaRef2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1009054"></A>
+</ZootaxaPara2011>
+</XML>

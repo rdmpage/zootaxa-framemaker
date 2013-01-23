@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="zt03150p068.css" type="text/css" charset="UTF-8"?>
+<XML>
+<TITLE> </TITLE><Body>
+<A ID="pgfId-1036048"></A>
+</Body>
+<zootaxaPara>
+<A ID="pgfId-1036049"></A>
+</zootaxaPara>
+<Body>
+<A ID="pgfId-1007126"></A>
+</Body>
+<ZootaxaTitle>
+<A ID="pgfId-1010389"></A>
+</ZootaxaTitle>
+<ZootaxaTitle2011>
+<A ID="pgfId-1027011"></A>
+</ZootaxaTitle2011>
+<ZootaxaTitle2011>
+<A ID="pgfId-1033744"></A>
+The phylogenetic relationships of Paramesotriton (Caudata: Salamandridae) based on partial mitochondrial DNA gene sequences</ZootaxaTitle2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1034676"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033745"></A>
+XIAOMING GU1, 4, HUI WANG1, RONGRONG CHEN2, YINGZHOU TIAN3 &amp; SONG LI3</ZootaxaPara2011>
+<zootaxaAddress>
+<A ID="pgfId-1033746"></A>
+1School of Life Sciences, Guizhou Normal University, 116 N Baoshan Rd, Guiyang, Guizhou, China 550001</zootaxaAddress>
+<zootaxaAddress>
+<A ID="pgfId-1033747"></A>
+2Molecular Biology Unit of King’s College London, London, UK</zootaxaAddress>
+<zootaxaAddress>
+<A ID="pgfId-1033748"></A>
+3Department of Biology, Liupanshui Normal College, Shuicheng, Guizhou China 553004</zootaxaAddress>
+<zootaxaAddress>
+<A ID="pgfId-1033750"></A>
+4Corresponding author. E-mail: gxmswx@163.com </zootaxaAddress>
+<ZootaxaPara2011>
+<A ID="pgfId-1034653"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1034667"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033751"></A>
+Abstract</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1034696"></A>
+</ZootaxaPara2011>
+<Abstract>
+<A ID="pgfId-1033752"></A>
+We examined phylogenetic relationships among newst of the genus Paramesotriton using partial mitochondrial gene sequences, including the ND2-tRNATyr region (1415 bp) and the 12S rDNA-tRNAVal-16S rDNA region (1774 bp), from 42 individuals of 10 <A ID="OLE_LINK104"></A>
+recognized Paramesotriton species and outgroups by Bayesian inference (BI), Maximum likelihood (ML) and Maximum Parsimony (MP) methods. We found that, (1) Laotriton laoensis is the sister group of Paramesotriton, (2) the genus Paramesotriton is monophyletic,<A ID="OLE_LINK91"></A>
+ composed of either the P. caudopunctatus species group and the P. chinensis species group, or the subgenera Allomesotriton and Paramesotriton (3) P. longliensis and P. zhijinensis should be placed in the P. caudopunctatus species group or subgenus Allomesotriton; (4) P. fuzhongensis is not a junior synonym of P. chinensis, and there is a close phylogenetic relationship between P. fuzhongensis and P. guangxiensis.</Abstract>
+<Abstract>
+<A ID="pgfId-1034703"></A>
+</Abstract>
+<Abstract>
+<A ID="pgfId-1033755"></A>
+Key words: Mitochondrial DNA sequences, Phylogeny, Paramesotriton</Abstract>
+<ZootaxaPara2011>
+<A ID="pgfId-1034710"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1034717"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1033756"></A>
+Introduction</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1034737"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033760"></A>
+The genus <A ID="OLE_LINK32"></A>
+Paramesotriton (Caudata: Salamandridae) contains <A ID="OLE_LINK57"></A>
+<A ID="OLE_LINK58"></A>
+10 known species. Except P. deloustali is endemic to the Tam Dao region of Vietnam (Bourret ) and P. laoensis is found in Laos (Stuart and Papenfuss), all other species occur in China, including P. chinensis (Gray), P. fuzhongensis (Wen), <A ID="OLE_LINK30"></A>
+P. guangxiensis (Huang et al.), P. hongkongensis (Myers and Leviton), P. caudopunctatus (Hu et al.), P. zhijinensis (Li et al. 2008), P. longliensis (Li et al. 2008) and P. ermizhaoi (Wu et al. 2009). </ZootaxaPara2011>
+<zootaxaPara2>
+<A ID="pgfId-1033764"></A>
+However, researchers have disagreed on <A ID="OLE_LINK98"></A>
+the validity of some species. For example, <A ID="OLE_LINK34"></A>
+P. fuzhongensis was treated as a <A ID="OLE_LINK16"></A>
+junior synonym of P. chinensis (Pang et al. 1992). Based on molecular data of six species of this genus, <A ID="OLE_LINK24"></A>
+Lu et al. (2004) argued that P. fuzhongensis is indeed a legitimate species, distinguished from P. chinensis, but the species was still treated as a synonym of P. chinensis (Fei et al. 2006). P. guanxiensis <A ID="OLE_LINK18"></A>
+<A ID="OLE_LINK19"></A>
+was once treated as a <A ID="OLE_LINK53"></A>
+junior synonym of P. deloustali <A ID="OLE_LINK22"></A>
+(Pang <A ID="OLE_LINK20"></A>
+et al. 1992<A ID="OLE_LINK23"></A>
+),<A ID="OLE_LINK6"></A>
+ but it was treated as a legitimate species (Ye et al., 1993; Fei et al. 2006). The phylogenetic relationship of [(<A ID="OLE_LINK13"></A>
+P. chinensis,<A ID="OLE_LINK17"></A>
+ P. hongkongensis), (P. fuzhongensis, (P. guangxiensis, P. deloustali))] was well supported in the study of Lu et al. (2004). However, Weisrock et al. (2006) considered that the phylogenetic relationship of P. fuzhongensis, P. guangxiensis and P. deloustali is (P. deloustali (P. fuzhongensis, P. guangxiensis)). The recently described species, P. ermizhaoi, was considered as a sister species of the group of P. chinensis and P. hongkongensis (Wu et al. 2009). </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033776"></A>
+P. zhijinensis (found in Zhijin, Guizhou, China) and P. longliensis (found in Longli, Guizhou, China), are recently <A ID="OLE_LINK102"></A>
+<A ID="OLE_LINK103"></A>
+described species. Zhao et al. (2008) considered that P. zhijinensis is a sister species of P. caudopunctatus, and P. zhijinensis represents the third evolutionary lineage of Paramesotriton. However, the <A ID="OLE_LINK139"></A>
+<A ID="OLE_LINK96"></A>
+phylogenetic placement of P. longliensis is unclear in the genus Paramesotriton. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033781"></A>
+Chan et al. (2001) reported that the genus Paramesotriton was monophyletic, with P. caudopunctatus as basal to P. guangxiensis, P. deloustali and P. hongkongensis. Based on mtDNA sequence data, Lu et al. (2004) considered that the six species of Paramesotriton (P. caudopunctatus, P. chinensis, P. deloustal, P. fuzhongensis, P. guangxiensis and P. hongkongensis) form a monophyletic group, with P. caudopunctatus as basal to the other five species. Weisrock et al. (2006) and Steinfartz et al. (2007) agreed with the results of Lu and colleagues. Sparreboom (1983) reported the morphological features, reproduction behavior and egg-laying of P. caudopunctatus. Freytag (1983) identified P. caudopunctatus as a species of the monotypic genus Allomesotriton based on its unique morphological characteristics and reproduction behavior. Pang et al. (1992) considered Allomesotriton to be a subgenus of Paramesotriton according to the morphological characteristics of the skull, skeleton, and hyoid apparatus of warty newts. Fei et al. (2006) divided the genus Paramesotriton into two species groups: the P. caudopunctatus species group (only P. caudopunctatus) and the P. chinensis species group (the remaining species). <A ID="OLE_LINK48"></A>
+Dubois and Raffaelli (2009) placed P. caudopunctatus into a distinct subgenus, Allomesotriton, which nomen is already available (Raffaeli 2007), and the remaining species of this genus into subgenus Paramesotriton. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033784"></A>
+The bright coloration of the dorsum in P. laoensis from Laos is remarkably different from the other representatives of the genus. Based on distinct morphological difference and well-supported molecular divergence, this species may be a sister-group to a clade containing the genera Paramesotriton and Pachytriton (Weisrock et al. 2006), or to the genus Pachytriton (Zhang et al. 2008). Weisrock et al. (2006) suggested that it ‘‘should not be placed in the genus Paramesotriton’’. Dubois &amp; Raffaelli (2009) referred this species to its own genus, Laotriton, and this suggestion was followed by Frost (2011) in the Amphibian Species of the World database (ASW), and by Amphibiaweb (http://www.amphibiaweb.org, accessed November 2011). </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033786"></A>
+Here, on the basis of <A ID="OLE_LINK73"></A>
+newly collected Paramesotriton samples from different localities of Guizhou Province, Guangxi Province, Chongqing Municipality and Zhejiang Province, P. R. China, the phylogenetic relationships of all recognized Paramesotriton species and of a newly discovered population (P. sp) were reconstructed using newly determined and previously published mtDNA sequence data (3189 bp). <A ID="OLE_LINK70"></A>
+In addition to conventional phylogenetic tree-building methods, we test the reliability of different phylogenetic hypotheses. Our goals are (i) <A ID="OLE_LINK99"></A>
+to provide reliable evidence <A ID="OLE_LINK100"></A>
+supporting or not whether all Paramesotriton species form a monophyletic group, (ii) to verify the phylogenetic position of the more recently described species, and (iii) to provide reliable evidence in support of the validity of some species. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1034755"></A>
+</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1034762"></A>
+</zootaxaPara2>
+<ZootaxaH1>
+<A ID="pgfId-1033790"></A>
+Material and methods</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1034769"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033791"></A>
+Taxon sampling and data collection. A total of 30 individuals of<annotation-reference>
+ </annotation-reference>
+six species of Paramesotriton, <A ID="OLE_LINK66"></A>
+including <A ID="OLE_LINK111"></A>
+P. guangxiensis, <A ID="OLE_LINK112"></A>
+P. fuzhongensis, <A ID="OLE_LINK114"></A>
+P. chineensis, three populations of P. caudopunctatus (including Leishan, Jiangkou and Youyang populations), P. zhijinensis, P. longliensis, in addition to a newly discovered population (<A ID="OLE_LINK115"></A>
+P. sp), were examined in this study (Table 1 and Figure 1). </ZootaxaPara2011>
+<zootaxaPara2>
+<A ID="pgfId-1033799"></A>
+Approximately 3189 bp of mtDNA sequences (including <A ID="OLE_LINK106"></A>
+the ND2 and the 12S -16S rDNA) of these species were amplified in this study. <A ID="OLE_LINK59"></A>
+We acquired corresponding sequences of other three species of Paramesotriton <A ID="OLE_LINK113"></A>
+(P. deloustali,<A ID="OLE_LINK110"></A>
+ P. hongkongensis <A ID="OLE_LINK78"></A>
+and P. ermizhaoi (only the ND2)) and Laotriton laoensis, from GenBank for phylogenetic analysis. Because Cynops was reported to be the sister group of a clade containing both Pachytriton and Paramesotriton (Titus and Larson 1995; Chan et al. 2001; Weisrock et al. 2006; Steinfartz et al. 2007; Zhang et al. 2008), we included C. pyrrhogaster, C. cyanurus (Hypselotriton cyanuru<A ID="OLE_LINK50"></A>
+s, Dubois &amp; Raffaelli 2009), <A ID="OLE_LINK109"></A>
+Pachytriton labiatus <A ID="OLE_LINK107"></A>
+<A ID="OLE_LINK108"></A>
+and P. brevipes as outgroup taxa in this study (Table 1). The sequences of the outgroup taxa <A ID="OLE_LINK69"></A>
+were acquired from GenBank. All samples in this study were deposited in the School of Life Sciences, Guizhou Normal University. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033809"></A>
+DNA extraction, amplification and sequencing. Genomic DNA was extracted from muscle tissues preserved in 90% alcohol followed the standard phenol-chloroform protocol. A 1415 bp segment including the genes encoded the ND2 (one subunit of NADH dehydrogenase), tRNATrp, tRNAAla, tRNAAsn, OL, tRNACys and part of tRNATyr (hereafter ND2) was amplified using the primer pair L4437-H5934 (Macey et al. 1997). A 1774 bp segment including the genes encoded 12SrRNA, tRNAVal and 16S rRNA (hereafter 12S -16S rDNA) was amplified by primers A a<A ID="OLE_LINK21"></A>
+nd I (Titus and Larson 1995). The amplification was performed in a 50μl volume reaction with the following procedures: 5 min initial denaturation step at 95 ℃, 32 cycles of 30 seconds denaturation at 94 ℃, annealing for 30 seconds at 50 ℃, extension for 1 min 50 seconds for the ND2 and a final extension at 72 ℃ for 10 min. Cycle annealing temperature was raised to 56 °C and extension was increased to 2 min10 seconds for the 12S-16S rDNA, with other conditions unchanged. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033812"></A>
+The PCR products were purified and sequenced in both directions using primer pairs L4437-H5934 (Macey et al. 1997) and the primers A, I and F (Titus and Larson 1995), respectively, at Shanghai DNA BioTechnologies Co, Ltd (Shanghai, China). </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033813"></A>
+The fragments obtained were input into the NCBI database to search for homologous sequences. The sequences were aligned separately using the program Clustal X 1.81 (Thompson et al. 1997) with default parameters. Subsequently, the alignments were verified by eye and regions of ambiguous alignments were removed from the sequences. The accession numbers of all sequences we used were given in Table 1. </zootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1035154"></A>
+</ZootaxaPara2011>
+<DIV>
+<IMAGE xml:link="simple" href="zt03150p068-1.gif" show="embed" actuate="auto"/>
+</DIV>
+<zootaxaPara2>
+<A ID="pgfId-1035139"></A>
+FIGUER 1. Map showing the distribution of the species of Paramesotriton used in this study. For information on species, see Table 1. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1035166"></A>
+</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033814"></A>
+Phylogenetic reconstruction. To assess phylogenetic congruence between the ND2 and the 12S-16SrDNA, Partition Homogeneity Tests (Farris et al. 1995) implemented in PAUP4.0b10 (Swofford 2003) were conducted for 100 replicates. The concatenated datasets and the ND2 were analyzed using the Bayesian inference (BI), Maximum-likelihood (ML) and Maximum parsimony (MP) method, respectively. Bayesian analyses were carried out using MrBayes 3.0 (Ronquist &amp; Huelsenbeck 2003) with the TVM+I+G model of DNA evolution, including 1×106 generations of Markov Chain Monte Carlo (Altekar et al. 2004). After omitting 25% of the generations (250000 generations) as burn in, a 50% majority rule consensus tree was calculated to generate a posterior probability for each node. Maximum likelihood analyses were carried out in PAUP*4.0b10 using the TVM+I+G model of DNA evolution. Heuristic search methods were used with TBR branch swapping. Analyses were repeated 200 times with a random order of sequence addition. Bootstrap tests were performed using 500 replicates with nearest neighbor interchange (NNI) branch swapping. We conducted MP analyses (using heuristic searches with 10 random input orders of taxa, TBR branch swapping, and equally weighted character) for all species with PAUP4.0b10 (Swofford 2003). Levels of repeatability of the branching patterns were assessed with 1000 bootstrap replicates. The strict consensus tree generated was with CI = 0.721, RI = 0.792, RC = 0.571 and L = 545. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033816"></A>
+Some alternative phylogenetic topologies were tested using the parsimony-based Templeton test (Templeton, 1983) and the Likelihood-based Approximately unbiased (AU) test (Shimodaira 2002). The Templeton test was done by using 1000 RELL bootstrap replicates, implemented in PAUP*4.0b10. To perform the AU test, we calculated site-wise log-likelihoods scores of trees constrained by topological conflicts using PAUP*4.0b10 and test P-values using the program CONSEL (Shimodaira &amp; Hasegawa, 2001). </zootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1035179"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1035181"></A>
+<A ID="OLE_LINK39"></A>
+TABLE 1. Taxon sampling for all ingroup and outgroup samples used in this study. GZNU = Guizhou Normal University, the Zoology Museum Collection (Guiyang, China) </ZootaxaPara2011>
+<TABLE>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035184"></A>
+Taxon</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035187"></A>
+<A ID="OLE_LINK43"></A>
+Voucher Specimen No.</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="2">
+<ZootaxaPara2011>
+<A ID="pgfId-1035189"></A>
+GenBank Accession No.</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035193"></A>
+Locality description</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035195"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035197"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035199"></A>
+12S-16SrDNA</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035201"></A>
+ND2- tRNATyr</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035203"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035205"></A>
+Paramesotriton</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035207"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035209"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035211"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035213"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035215"></A>
+P. chinensis 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035217"></A>
+GZNU200806087</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035219"></A>
+FJ938048</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035221"></A>
+JF438979</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035223"></A>
+Tiantai, Zhejiang, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035225"></A>
+P. chinensis 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035227"></A>
+MVZ 230360</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035229"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035231"></A>
+DQ517800</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035233"></A>
+Yongjia, Zhejiang, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035235"></A>
+P. hongkongensis 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035237"></A>
+Not mention</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035239"></A>
+AY458597</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035241"></A>
+AY458597</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035243"></A>
+Shenzhen,Guangdong, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035245"></A>
+P. hongkongensis 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035247"></A>
+MVZ230367</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035249"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035251"></A>
+DQ517805</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035253"></A>
+Violet Hill, Hong Kong Island, Hong Kong, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035255"></A>
+P. deloustali 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035257"></A>
+MVZ223628</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035259"></A>
+EU880327</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035261"></A>
+EU880327</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035263"></A>
+Tam Dao, Vinh Phu, Province, Vietnam </ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035265"></A>
+P. deloustali 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035267"></A>
+MVZ223627</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035269"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035271"></A>
+DQ517802</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035273"></A>
+Tam Dao, Vinh Phu Province, Vietnam</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035275"></A>
+P. guangxiensis 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035277"></A>
+GZNU2006001</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035279"></A>
+FJ938041</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035281"></A>
+FJ169604</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035283"></A>
+Ningming,Guangxi, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035285"></A>
+P. guangxiensis 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035287"></A>
+GZNU2006002</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035289"></A>
+JF712657</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035291"></A>
+JF438980</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035293"></A>
+Ninming, Guangxi, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035295"></A>
+P. fuzhongensis 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035297"></A>
+GZNU2007052001</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035299"></A>
+FJ938044</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035301"></A>
+FJ169605</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035303"></A>
+Fuchuan, Guangxi, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035305"></A>
+P. fuzhongensis 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035307"></A>
+GZNU2007052002</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035309"></A>
+HQ711551</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035311"></A>
+JF438981</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035313"></A>
+Fuchuan, Guangxi, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035315"></A>
+P. fuzhongensis 3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035317"></A>
+GZNU2006067003</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035319"></A>
+HQ711552</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035321"></A>
+JF438982</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035323"></A>
+Fuchuan, Guangxi, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035325"></A>
+P. ermizhaoi 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035327"></A>
+CIB 88141</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035329"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035331"></A>
+FJ744601</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035333"></A>
+Jinxiu, Guangxi, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035335"></A>
+P. ermizhaoi 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035337"></A>
+CIB 88140</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035339"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035341"></A>
+FJ744602</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035343"></A>
+Jinxiu, Guangxi, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035345"></A>
+P. caudopunctatus(LS) 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035347"></A>
+GZNU2009042501</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035349"></A>
+HQ702557</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035351"></A>
+JF438983</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035353"></A>
+Leishan, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035355"></A>
+P. caudopunctatus(LS) 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035357"></A>
+GZNU07072001</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035359"></A>
+HQ702556</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035361"></A>
+FJ938040</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035363"></A>
+Leishan,  Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035365"></A>
+P. caudopunctatus(LS) 3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035367"></A>
+GZNU20050727002</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035369"></A>
+FJ938042</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035371"></A>
+JF438984</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035373"></A>
+Leishan,  Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035375"></A>
+P. caudopunctatus(LS) 4</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035377"></A>
+GZNU20050727001</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035379"></A>
+HQ702555</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035381"></A>
+JF438985</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035383"></A>
+Leishan,  Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035385"></A>
+P. caudopunctatus(LS) 5</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035387"></A>
+GZNU07072005</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035389"></A>
+HQ702558</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035391"></A>
+JF438986</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035393"></A>
+Leishan,  Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035395"></A>
+P. caudopunctatus(JK) 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035397"></A>
+GZNU2007071001</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035399"></A>
+FJ938043</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035401"></A>
+FJ169606</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035403"></A>
+Jiangkou, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035405"></A>
+P. caudopunctatus(JK) 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035407"></A>
+GZNU2007071002</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035409"></A>
+HQ702559</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035411"></A>
+JF438987</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035413"></A>
+Jiangkou, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035415"></A>
+P. caudopunctatus(JK) 3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035417"></A>
+GZNU2007071003</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035419"></A>
+HQ702560</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035421"></A>
+JF438988</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035423"></A>
+Jiangkou, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035425"></A>
+P. caudopunctatus(JK) 4</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035427"></A>
+GZNU2007071004</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035429"></A>
+HQ702561</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035431"></A>
+JF438989</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035433"></A>
+Jiangkou, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035435"></A>
+P.caudopunctatus(YY) 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035437"></A>
+GZNU08072602</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035439"></A>
+HQ702562</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035441"></A>
+JF438990</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035443"></A>
+Youyang,Chongqing, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035445"></A>
+P. caudopunctatus(YY) 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035447"></A>
+GZNU08072603</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035449"></A>
+HQ702563</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035451"></A>
+JF438991</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035453"></A>
+Youyang,Chongqing, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035455"></A>
+P. caudopunctatus(YY) 3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035457"></A>
+GZNU08072604</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035459"></A>
+HQ702564</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035461"></A>
+JF438992</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035463"></A>
+Youyang,Chongqing, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035465"></A>
+P. sp 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035467"></A>
+GZNU2006030003</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035469"></A>
+FJ938045</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035471"></A>
+FJ169607</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035473"></A>
+Libo, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035475"></A>
+P. sp 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035477"></A>
+GZNU2006030004</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035479"></A>
+HQ711542</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035481"></A>
+JF438993</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035483"></A>
+Libo, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035485"></A>
+P. sp 3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035487"></A>
+GZNU2006030005</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035489"></A>
+HQ711543</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035491"></A>
+JF438994</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035493"></A>
+Libo, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035495"></A>
+P. sp 4</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035497"></A>
+GZNU2006030006</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035499"></A>
+HQ711544</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035501"></A>
+JF438972</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035503"></A>
+Libo, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035505"></A>
+P. longliensis 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035507"></A>
+GZNU20070421001</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035509"></A>
+FJ938046</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035511"></A>
+FJ169608</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035513"></A>
+Longli, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035654"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035656"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035658"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035660"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035662"></A>
+continued next page</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035664"></A>
+TABLE 1. (continued)</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035666"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035668"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035670"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035672"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035690"></A>
+Taxon</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035693"></A>
+Voucher Specimen No.</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="2">
+<ZootaxaPara2011>
+<A ID="pgfId-1035695"></A>
+GenBank Accession No.</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035699"></A>
+Locality description</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035680"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035682"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035684"></A>
+12S-16SrDNA</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035686"></A>
+ND2- tRNATyr</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035688"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035515"></A>
+P. longliensis 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035517"></A>
+GZNU20070421002</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035519"></A>
+HQ711548</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035521"></A>
+JF438973</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035523"></A>
+Longli, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035525"></A>
+P. longliensis 3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035527"></A>
+GZNU20070421003</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035529"></A>
+HQ711549</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035531"></A>
+JF438974</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035533"></A>
+Longli, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035535"></A>
+P. longliensis 4</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035537"></A>
+GZNU20070421004</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035539"></A>
+HQ711550</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035541"></A>
+JF438975</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035543"></A>
+Longli, Guizhou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035545"></A>
+P. zhijinensis 1</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035547"></A>
+GZNU20070415001</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035549"></A>
+FJ938047</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035551"></A>
+FJ169609</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035553"></A>
+Zhijin, Guihzou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035555"></A>
+P. zhijinensis 2</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035557"></A>
+GZNU20070415002</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035559"></A>
+HQ711545</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035561"></A>
+JF438976</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035563"></A>
+Zhijin, Guihzou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035565"></A>
+P. zhijinensis 3</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035567"></A>
+GZNU20070415003</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035569"></A>
+HQ711546</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035571"></A>
+JF438977</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035573"></A>
+Zhijin, Guihzou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035575"></A>
+P. zhijinensis 4</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035577"></A>
+GZNU20070415004</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035579"></A>
+HQ711547</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035581"></A>
+JF438978</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035583"></A>
+Zhijin, Guihzou, China</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035585"></A>
+Laotriton laoensis</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035587"></A>
+FMNH255452</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035589"></A>
+EU880328</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035591"></A>
+EU880328</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035593"></A>
+Phou Sang Kat mountain, Saysamboun Special Zone, Laos </ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035595"></A>
+Outgroup</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035597"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035599"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035601"></A>
+</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035603"></A>
+</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035605"></A>
+Pachytriton labiatus</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035607"></A>
+MVZ230355</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035609"></A>
+EU880325</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035611"></A>
+EU880325</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035613"></A>
+Not mention</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035615"></A>
+Pachytriton brevipes</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035617"></A>
+MVZ231167</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035619"></A>
+EU880324</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035621"></A>
+EU880324</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035623"></A>
+Not mention</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035625"></A>
+Cynops pyrrhogaster</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035627"></A>
+TP-MVZ03</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035629"></A>
+EU880313</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035631"></A>
+EU880313</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035633"></A>
+Not mention</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035635"></A>
+Hypselotriton cyanurus</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1035636"></A>
+(Cynops.cyanurus)</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035638"></A>
+TP-MVZ02</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035640"></A>
+EU880309</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035642"></A>
+EU880309</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035644"></A>
+Not mention</ZootaxaPara2011>
+</CELL>
+</ROW>
+</TABLE>
+<zootaxaPara2>
+<A ID="pgfId-1034800"></A>
+</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1034807"></A>
+</zootaxaPara2>
+<ZootaxaH1>
+<A ID="pgfId-1033817"></A>
+Results</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1034814"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033818"></A>
+No length variation was observed in the ND2 gene region of 30 individuals of<annotation-reference>
+ the </annotation-reference>
+six species of Paramesotriton. The sequence length of the ND2 fragment is 1415 bp after alignment. Among them, 438 are variable and 274 are potentially phylogenetically informative. Most of the variable and the phylogenetically informative sites are from protein-coding region, only 63 variable and 35 phylogenetically informative sites are from tRNA genes and noncoding regions. Of the 239 phylogenetically informative characters from protein-coding regions, 115 are from third position of codons. The third-position sites amount to near half of the phylogenetically informative sites in the genetic region. Average level of base are T = 25.80%, C = 25.90%, A = 35.40%, G = 12.80%, with a G + C content of 38.70%. The sequence length of the 12S-16SrDNA of 30 individuals of<annotation-reference>
+ the </annotation-reference>
+six Paramesotriton species used for alignment is 1774 bp. Among them, there are 36 insertion or deletion sites, and the variable sites and parsimony informative sites are 347 and 193 bp, respectively. Average proportions of bases are T = 25.97%, C = 25.97%, A = 36.40%, G = 11.66%, with a G + C content of 37.63%. </ZootaxaPara2011>
+<zootaxaPara2>
+<A ID="pgfId-1033819"></A>
+The ND2 fragment presents higher levels of interspecific divergence than the 12S-16S rDNA fragment among ingroup and outgroup. Surprisingly, remarkably small genetic differences, 1.5% in the ND2 and 0.7% in the 12S-16SrDNA, were exhibited between P. zhijinensis and P. longliensis, less than those of P. caudopunctatus’ inter-population distance (1.7% ~2.3% in the ND2 and 1.2~2.6% in the 12S-16S rDNA). </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033820"></A>
+Results from the Partition Homogeneity Test suggested that the ND2 and 12S-16S rDNA are congruent with each other (P = 0.35). Therefore, we concatenated the two fragments (total 3144bp) in the <A ID="OLE_LINK8"></A>
+phylogenetic inference and analyzed the phylogenetic relationships mainly based on BI, ML and MP trees obtained from the concatenated dataset. <A ID="OLE_LINK136"></A>
+The BI, ML and MP analyses <A ID="OLE_LINK51"></A>
+from <A ID="OLE_LINK130"></A>
+concatenated datasets produced <A ID="OLE_LINK63"></A>
+identical topologies. <A ID="OLE_LINK134"></A>
+The Bayesian posterior probabilities (PP) of all ingroup clades of the BI tree are greater than 0.8 except for three clades (L. laoensis clade (clade C) and the first, the second sub-clade in clade B), and <A ID="OLE_LINK7"></A>
+the parsimony boot strap values (MPBS) and likelihood boot strap values (MLBS) of all ingroup clades of <A ID="OLE_LINK135"></A>
+the MP tree are over 70% except for two clades (<A ID="OLE_LINK122"></A>
+<A ID="OLE_LINK124"></A>
+L. laoensis clade and the second sub-clade in<A ID="OLE_LINK120"></A>
+<A ID="OLE_LINK121"></A>
+ clade B). The results of the<A ID="OLE_LINK5"></A>
+ three analyses suggest that all<A ID="OLE_LINK123"></A>
+ eight species of Paramesotriton and L. laoensis form a monophyletic group, in which L. laoensis is sister to the<A ID="OLE_LINK126"></A>
+se eight Paramesotriton species, but the clade is only weakly supported (PP/MLBS/MPBS = 0.63/59/62). <A ID="OLE_LINK14"></A>
+<A ID="OLE_LINK33"></A>
+These eight Paramesotriton species are recovered as a monophyletic group strongly supported (PP/ MLBS/MPBS = 0.99/96/97), and could be divided into <A ID="OLE_LINK12"></A>
+clades A and B. Clade A includes three populations of P. caudopunctatus (Leishan, Jiangkou and Youyang <A ID="OLE_LINK3"></A>
+populations), P. zhijinensis, P. longliensis and the newly discovered population (P. sp), and can be further divided into two sub-clades: [P. zhijinensis (P. longliensis, P. sp)] sub-clade and P. caudopunctatus<A ID="OLE_LINK1"></A>
+ sub-clade. Clade B consists of P. hongkongensis, P. chinensis, P. deloustali , P. fuzhongensis and P. guangxiensis. Among these species, P. chinensis, P. hongkongensis and P. deloustali are positioned as<A ID="OLE_LINK11"></A>
+ the first, the second and the third sub-clade, respectively. And P. deloustali<A ID="OLE_LINK125"></A>
+ is a sister species to the fourth sub-clade consisting of P. guangxiensis and P. fuzhongensis <A ID="OLE_LINK132"></A>
+(Fig 2). </zootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1035723"></A>
+</ZootaxaPara2011>
+<DIV>
+<IMAGE xml:link="simple" href="zt03150p068-2.gif" show="embed" actuate="auto"/>
+</DIV>
+<zootaxaPara2>
+<A ID="pgfId-1035708"></A>
+FIGUER 2. Phylogenetic relationships of extant Paramesotriton species (except P. ermizhaoi) inferred from concatenated datasets. The DNA dataset (3189 sites) was analyzed with Maximum parsimony, partitioned maximum likelihood, and Bayesian inference. All approaches produce identical topology, and their branch-support measures are mapped to the phylogram. Left numbers along branches represent weighted maximum parsimony bootstrap values, middle numbers represent partitioned maximum likelihood bootstrap values and right numbers represent Bayesian posterior probabilities. Branch lengths were estimated by Bayesian inference analysis. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1035735"></A>
+</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033844"></A>
+The results of the BI, ML and MP analyses from the ND2 are basically consistent. All nine species of Paramesotriton and L. laoensis form a monophyletic group, in which L. laoensis is sister to the nine species of Paramesotriton, but the clade (clade C) is only weakly supported, (PP/MLBS/MPBS = 0.54/55/60). These nine Paramesotriton species are also recovered as a monophyletic group strongly supported (PP/MLBS/MPBS = 0.99/98/97), and could be divided into clades A and B. Species P. ermizhaoi is a sister species of P. hongkongensis, but the clade is weakly supported ,too (PP/MLBS/MPBS = 0.47/52/54), and (P. hongkongensis, P. ermizhaoi), P. chineensis are the first and the second sub-clades, respectively, in clade B in th phylogenetic tree from the ND2, the positions of other species are identical to that from concatenated <A ID="OLE_LINK131"></A>
+datasets (Fig 3). </zootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1035918"></A>
+</ZootaxaPara2011>
+<DIV>
+<IMAGE xml:link="simple" href="zt03150p068-3.gif" show="embed" actuate="auto"/>
+</DIV>
+<zootaxaPara2>
+<A ID="pgfId-1035903"></A>
+FIGUER 3. Phylogenetic relationships of extant Paramesotriton species inferred from the ND2. The DNA dataset (1415 sites) was analyzed with Maximum parsimony, partitioned maximum likelihood, and Bayesian inference. All approaches produce identical topology, and their branch-support measures are mapped to the phylogram. Left numbers along branches represent weighted maximum parsimony bootstrap values, middle numbers represent partitioned maximum likelihood bootstrap values and right numbers represent Bayesian posterior probabilities. Branch lengths were estimated by Bayesian inference analysis. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1035930"></A>
+</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033847"></A>
+The ambiguous parts of <A ID="OLE_LINK64"></A>
+the two phylogenetic trees are the placement of L. laoensis, P. hongkongensis, P. chinensis and P. ermizhaoi because the clades are only weakly or moderately supported. Topological tests based on both likelihood and parsimony were unable to reject the alternative hypotheses on the phylogenetic positions of these species (P &gt; 0.05; Table 3). </zootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1035755"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1035756"></A>
+TABLE 2. Statistical comparisons among alternative hypotheses of salamandrid relationships using the AU test and Templeton test. </ZootaxaPara2011>
+<TABLE>
+<ROW>
+<CELL ROWSPAN="2" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035759"></A>
+Alternative topology tested</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="2">
+<ZootaxaPara2011>
+<A ID="pgfId-1035761"></A>
+Likelihood-based</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035765"></A>
+Parsimony-based</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="2">
+<ZootaxaPara2011>
+<A ID="pgfId-1035769"></A>
+∆lnLa              AU test         </ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035773"></A>
+Templeton test ∆steps (P value)</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035775"></A>
+Best tree</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035777"></A>
+—</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035779"></A>
+—</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035781"></A>
+—</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035783"></A>
+L.laoensis sister to Pachytriton</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035785"></A>
+1.29834</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035787"></A>
+P = 0.237</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035789"></A>
+N = 17    P =  0.4669</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035792"></A>
+L.laoensis sister to Pachytriton+ <A ID="OLE_LINK75"></A>
+Paramesotriton</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035794"></A>
+0.73161</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035796"></A>
+P = 0.379</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035798"></A>
+N = 15    P = 0.7963</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035800"></A>
+P. hongkongensis sister to all remaining Newts in</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1035801"></A>
+P. chinensis species group</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035803"></A>
+2.88313</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035805"></A>
+P = 0.125</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035807"></A>
+N = 20    P = 0.3711</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035809"></A>
+P. hongkongensis sister to P. chinensis</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035811"></A>
+1.68247</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035813"></A>
+P = 0.310</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035815"></A>
+N = 24    P = 1</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035817"></A>
+P. ermizhaoi sister to (P. chinensis + P. hongkongensis)</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035819"></A>
+1.28161</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035821"></A>
+P = 0.219</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035823"></A>
+N = 27    P =  0.5637</ZootaxaPara2011>
+</CELL>
+</ROW>
+<ROW>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035825"></A>
+P. ermizhaoi sister to P. chinensis</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035827"></A>
+1.10305</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035829"></A>
+P = 0.265</ZootaxaPara2011>
+</CELL>
+<CELL ROWSPAN="1" COLSPAN="1">
+<ZootaxaPara2011>
+<A ID="pgfId-1035831"></A>
+N = 23    P =  0.1444</ZootaxaPara2011>
+</CELL>
+</ROW>
+</TABLE>
+<ZootaxaPara2011>
+<A ID="pgfId-1033848"></A>
+Discussion</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1034844"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033849"></A>
+L. laoensis and all species of Paramesotriton form a monophyletic group. Based on the combined result of molecular and morphological data, Chan et al. (2001) proposed the monophyly of Paramesotriton. But their tree contained only four Paramesotriton species. With partial sequences data of mitochondrial genes, Lu et al. (2004) argued that all six species of Paramesotriton (P. deloustali, P. caudopunctatus, P. chinensis, P. fuzhongensis, P. guangxiensis and P. hongkongensis) included in their<A ID="OLE_LINK10"></A>
+<A ID="OLE_LINK31"></A>
+ study formed a monophyletic group. Weisrock et al. (2006) argued that all six species of Paramesotriton except P. laoensis (L. laoensis) formed a monophyletic group. Our results suggest that L. laoensis and eight species (in phylogenetic trees from the concatenated datasets<A ID="OLE_LINK2"></A>
+) or nine species (in phylogenetic trees from the ND2) of Paramesotriton form a monophyletic group, and L. laoensis is the sister group of Paramesotriton, albeit L. laoensis clade (clade C) is only weakly supported (PP/MLBS/MPBS = 0.63/59/62, in the concatenated datasets, PP/MLBS/MPBS = 0.47/52/54. in the ND2) in the monophyletic group. Owing to the low PP/MLBS/MPBS, the phylogenetic status of L. laoensis is still not fully resolved. </ZootaxaPara2011>
+<zootaxaPara2>
+<A ID="pgfId-1033854"></A>
+The topological tests of our study could not refuse L. laoensis sister to (Pachytriton, Paramesotriton) and L. laoensis sister to Pachytriton (p &gt; 0.05, Table 3). L. laoensis, in fact, may be a sister-group to the cluster of genera Paramesotriton and Pachytriton (Weisrock et al. 2006), or to the genus Pachytriton (MPBS = 97; alternative hypotheses P &lt; 0.05; the ML-corrected sequence divergence matrix also indicated that L. laoensis is closer to Pachytriton than to Paramesotriton. Zhang et al. 2008). Weisrock et al. (2006) suggested that it ‘‘should not be placed in the genus Paramesotriton’’, Zhang et al. (2008) thought this species likely represents a transitional form when the increasingly specialized Pachytriton stock evolved from Paramesotriton to become aquatic, Dubois &amp; Raffaelli (2009) referred this species to its own genus, Laotriton. All standard online references (ASW and Amphibiaweb) have accepted Laotriton by now. Our data do not contradict the conclusion of these authors of placing P. laoensis (L. laoensis) in an own genus, because the placement of L .laoensis sister to Paramesotriton in our analysis was not strongly supported. However, we cannot provide conclusive new evidence for L. laoensis to be a separate placement. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033857"></A>
+Phylogenetic<A ID="OLE_LINK71"></A>
+ <A ID="OLE_LINK15"></A>
+placement of P. zhijinensis, P. longliensis and P. sp. Because of the unique morphological features, P. caudopunctatus was once considered to be the only a species of the new genus, Allomesotriton (Freytag 1983). However, based on the study of morphological structure, Pang et al. (1992) suggested that Allomesotriton is a subgenus of the genus Paramesotriton and P. caudopunctatus is the most basal species of the genus Paramesotriton. This proposal was supported by phylogenetic studies (Chan et al. 2001; Lu et al. 2004; Weisrock et al. 2006) and P. caudopunctatus was considered as the sister lineage to all remaining species<A ID="OLE_LINK9"></A>
+ of Paramesotriton in these studies. In the study, the most basal species of the genus include P. caudopunctatus, P. longliensis, P. zhijinensis and P. sp. The genus Paramesotriton is divided into two species groups by Fei et al. (2006), the <A ID="OLE_LINK49"></A>
+P. caudopunctatus species group(only P. caudopunctatus) and <A ID="OLE_LINK45"></A>
+the P. chinensis species group (the remaining species). Dubois and Raffaelli (2009) promoted the P. caudopunctatus species group and the P. chinensis species group to <A ID="OLE_LINK36"></A>
+<A ID="OLE_LINK38"></A>
+sub<A ID="OLE_LINK35"></A>
+genera, as Allomesotriton and Paramesotriton, respectively. The former corresponds to clade A, the latter corresponds to the clade B of our results. The species P. zhijinensis, P. longliensis and P. sp could be assigned to P. caudopunctatus group or the subgenus Allomesotriton.</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033865"></A>
+P. sp, native to Libo county of Guizhou Province, China, is different from other species of the genus morphologically, such as enormous body size (TOL: ♀ ,approximately 200 cm; ♂ ,approximately 184 cm), a pair of horn protuberance on the upper laterals post head (Fig.4), but P. sp is recovered as sister to P. longliensis in our phylogenetic trees. The pairwise sequence divergence of P. sp to P. longliensis and P. zhijinensis are 0.7% and 1.6% in the ND2, 0.6% and 1.1% in the 12S-16S rDNA, respectively. This suggests that P. sp may be a new population of the rare newt P. longliensis. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033866"></A>
+The phylogenetic relationships of the P. chinensis species group. <A ID="OLE_LINK46"></A>
+The relationships of<A ID="OLE_LINK41"></A>
+ the five species in the clade B in the phylogenetic tree from concatenated datasets are not identical to those reconstructed by Lu et al. (2004), Weisrock et al. (2006) and Zhao et al. (2008), in which P. hongkongensis is a sister taxon of P. chinensis. The phylogenetic relationship among P. fuzhongensis, P. guangxiensis and P. deloustali is (P. fuzhongensis (P. guangxiensis, P. deloustali)) in studies of Lu et al. (2004) and Zhao et al. (2008), but the phylogenetic relationship of this three species is (P. deloustali (P. fuzhongensis, P. guangxiensis)) in study of Weisrock et al. (2006). Our result suggests that P. chinensis is a sister taxon of [(P. hongkongensis), (P. deloustali, (P. guangxiensis, P. fuzhongensis)] (only moderately supported, PP/MLBS/MPBSs are 0.78/72/76 in the concatenated datasets)<A ID="OLE_LINK37"></A>
+<A ID="OLE_LINK52"></A>
+<A ID="OLE_LINK29"></A>
+, P. fuzhongensis is not a junior synonym of P. chinensis, and there is a close phylogenetic relationship between P. fuzhongensis and P. guangxiensis instead of P. deloustal, which is identical to the result of Weisrock et al. (2006). </zootaxaPara2>
+<ZootaxaPara2011>
+<A ID="pgfId-1035958"></A>
+</ZootaxaPara2011>
+<DIV>
+<IMAGE xml:link="simple" href="zt03150p068-4.gif" show="embed" actuate="auto"/>
+</DIV>
+<zootaxaPara2>
+<A ID="pgfId-1035947"></A>
+FIGUER 4. Dorsal, lateral view of P. sp (GZNU2008070001, ♀), a newly discovered population from Libo county of Guizhou Province, China. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1035970"></A>
+</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033873"></A>
+P. ermizhaoi is recovered as a sister species of the group of P. chinensis and P. hongkongensis with a low PP and MPBS (0.54/53) (Wu et al. 2009), but P. ermizhaoi is recovered as sister to P. hongkongensis, also having a low<A ID="OLE_LINK4"></A>
+ PP, MLBS and MPBS (0.47/52/54), and (P. hongkongensis, P. ermizhaoi), P. chineensis are the first and the second sub-clades, respectively, in our study. Because of the low PP, MLBS and MPBS, the phylogenetic placement of P. ermizhaoi is unclarified. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1033877"></A>
+<A ID="OLE_LINK81"></A>
+Templeton tests and AU tests <A ID="OLE_LINK80"></A>
+could not reject that P. chinensis is sister species to all <A ID="OLE_LINK42"></A>
+remaining newts in this species group and P. hongkongensis is a sister specie to P. chinensis (p &gt; 0.05, Table 3).The two tests could also not reject that P. ermizhaoi is a sister specie to P. chinensis and P. ermizhaoi is a sister species of the group of P. chinensis and P. hongkongensis (p &gt; 0.05, Table 3) . Therefore, also the precise phylogenetic position of P. hongkongensis, P. chinensis and P. ermizhaoi is left with uncertainty. To clarify the phylogenetic positions of these three species, a more comprehensive study based on morphological and molecular analysis is needed. </zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1034919"></A>
+</zootaxaPara2>
+<zootaxaPara2>
+<A ID="pgfId-1034926"></A>
+</zootaxaPara2>
+<ZootaxaH1>
+<A ID="pgfId-1033879"></A>
+Acknowledgements</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1034933"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033880"></A>
+This work was supported by grants from the Plan of Key Project of Guizhou Province International Science and Technology Cooperation (G [2008]700116).</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1034943"></A>
+</ZootaxaPara2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1034950"></A>
+</ZootaxaPara2011>
+<ZootaxaH1>
+<A ID="pgfId-1033881"></A>
+References</ZootaxaH1>
+<ZootaxaPara2011>
+<A ID="pgfId-1034957"></A>
+</ZootaxaPara2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033882"></A>
+Altekar, G., Dwarkadas, S., Huelsenbeck, J.P. &amp; Ronquist, F. (2004) Parallel Metropolis coupled Markov chain Monte Carlo for Bayesian phylogenetic inference. Bioinformatics, 20, 407–415. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033883"></A>
+Amphibiaweb. www.amphibiaweb.org </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033884"></A>
+Chan, L.M., Zamudio, K.R &amp; Wake, D.B. (2001) Relationships of the salamandrid genera Paramesotriton, Pachytriton, and Cynops based on mitochondrial DNA sequences. Copeia, 997–1009. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033885"></A>
+Dubois, A &amp; Raffaelli, J. (2009) A new ergotaxonomy of the family Salamandridae Goldfuss, 1820 (Amphibia, Urodela). Alytes, 26 (1–4), 1–85. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033887"></A>
+Fei, L., Hu S. Q., Ye, C.Y. &amp; Huang Y.Z. (2006) Fauna Sinica.Amphibia V01.1.General accounts of Amphibia, Gymnophiona and Urodela. Science Press, Beijing, Ch<A ID="OLE_LINK28"></A>
+ina, pp. 253–313. (in Chinese)</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033890"></A>
+<A href="http://sysbio.oxfordjournals.org/content/44/4/570.full.pdf" xml:link="simple" show="replace" actuate="user" CLASS="URL">Farris, J.S., Kallersjo, M., Kluge, A.J. &amp; Bult, C. (1995) </A><Hyperlink>
+Constructing a significance test for incongruence</Hyperlink>
+. Systematic Biology, 44, 570–572.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033891"></A>
+Frost, D., R. (2011) Amphibian Species of the World: an Online Reference. Version 5.5 (31 January, 2011). Electronic Database accessible at http://research.amnh.org/vz/herpetology/amphibia/American Museum of Natural History, New York, USA. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033892"></A>
+Freytag, G.E. (1983) Zur systematischen Stellung von Trituroides caudopunctatus (Liu &amp; Hu, 1973). Morphometrische und röntgenanatomische Befunde (Amphibia, Caudata, Salamandridae). Zoologische Abhandlungen Staatliches Museum für Tierkunde in Dresden, 39 (2), 39–49.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033893"></A>
+Frost, D.R. (2011) Amphibian Species of the World: an Online Reference. Version 5.5 (31 January, 2011). Electronic Database accessible at http://research.amnh.org/vz/herpetology/amphibia/ American Museum of Natural History, New York, USA.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033894"></A>
+Kishino, H. &amp; Hasegawa, M. (1989) Evaluation of the maximum likelihood estimate of the evolutionary tree topologies from DNA sequence data, and the branching order in Hominoidea. Journal of Molecular Evolution, 29, 170–179. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033895"></A>
+Li ,S., Tian Y.Z &amp; Gu, X.M. ( 2008) A New Species of Paramesotriton the genus (Caudata: Salamandridae). Acta Zootaxonomica Sinica, 33(2), 410–413. (in Chinese)</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033896"></A>
+Li, S., Tian, Y.Z., Gu, X.M &amp; Xiong, R.C. (2008) A New Species of Paramesotriton — Paramesotriton longliensis (Caudata: Salamandridae).Zoological Research, 29(3), 313–31<A ID="OLE_LINK27"></A>
+7. (in Chinese)</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033898"></A>
+Lu, S.Q., Yuan, Z.G., Pang, J.F., Yang, D.T., Yu, F.H., McGuire, P., Xie, F. &amp; Zhang, Y.P. (2004) Molecular phylogeny of the genus Paramesotriton (Caudata: Salamandridae). Biochemical Genetics, 42, 139–148. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033899"></A>
+Macey, J.R &amp; Larson A., Ananjeva, N.B., Papenfuss ,T.J. (1997) Evolutionary shifts in three major structural features of the mitochondrial genome among iguanian lizards. Molecular Phylogenetics and Evolution, 44, 660–674. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033900"></A>
+Pang, J.Q., Jiang, Y.M &amp; Hu, Q.X. (1992) A systematic study on the Chinese newt genus Paramesotriton (Caudata: Salamandridae). In: Collected Papers on Herpetology, Jiang, Y. (ed.). Sichuan Science and Technology Publishing House, Chengdu, China, pp. 89–100. (in Chinese)</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033901"></A>
+R affaëlli, J. (2007) Les Urodèlesdu monde. Plumelec Penclen édition: [i-vi] + 1~377. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033902"></A>
+Ronquist, P.R &amp; Huelsenbeck, J.P. ( 2003) MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics, 19, 1572–1574. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033903"></A>
+Shimodaira, H., Hasegawa, M. (2001) CONSEL: for assessing the confidence of phylogenetic tree selection. Bioinformatics, 17, 1246–1247.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033904"></A>
+Shimodaira, H. (2002) An approximately unbiased test of phylogenetic tree selection. Systematic Biology, 51, 492–508.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033905"></A>
+Sparreboom, M. (1983) On the sexual behaviour of Paramesotriton caudopunctatus (Liu and Hu) (Amphibia, Caudata, Salamandridae). Amphidia Reptilia, 4, 25–33. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033906"></A>
+Steinfartz, S., Vicario, S., Arntzen, J.W &amp; Caccone, A. (2007) A Bayesian Approach on Molecules and Behavior:Reconsidering Phylogenetic and Evolutionary Patterns of the Salamandridae with Emphasis on Triturus Newts. Journal of Experimental Zoology, 308B, 139–142. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033907"></A>
+Stuart, B.L. &amp; Papenfuss, T.J. (2002) A new salamander of the genus Paramesotriton (Caudata: Salamandridae) from Laos. Journal of Herpetology, 36, 145–148. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033908"></A>
+Swofford, D.L. (2003) PAUP: Phylogenetic Analysis Using Parsimony (and Other Methods).Version 4 0b10 Sinauer Associates, Sunderland, MA. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033909"></A>
+Templeton, A.R.(1983) Phylogenetic inference from restriction endonuclease cleavage site maps with particular reference to the evolution of humans and the apes. Evolution, 37, 221–244. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033910"></A>
+Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F &amp; Higgins, D.G. (1997) The CLUSTAL X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research, 24, 4876–4882. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033911"></A>
+Titus, T.A. &amp; Larson, A. (1995) A molecular phylogenetic perspective on the evolutionary radiation of the salamander family Salamandridae<A ID="OLE_LINK85"></A>
+. <gs-a1>
+Systematic Biology</gs-a1>
+, 44, 125–151.</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033913"></A>
+Weisrock, D.W., Papenfuss, T. J., Macey, J. R., Litvinchuk, S. N, Polymeni, R., Ugurtas, I.H, Zhao, E. M., Jowkar, H &amp; Larson, A.(2006) A molecular assessment of phylogenetic relationships and lineage accumulation rates within the family Salamandridae (Amphibia, Caudata). Molecular Phylogenetics and Evolution, 41, 368–383. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033914"></A>
+Wu, Y., Rovito, S.M., Papenfuss, T. J &amp; Hanken, J. (2009) A new species of the genus Paramesotriton (Caudata: Salamandridae) from Guangxi Zhuang Autonomous Region, southern China. Zootaxa, 2060, 59–68. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033916"></A>
+<A ID="OLE_LINK26"></A>
+Ye, C. Y, Fei, L &amp; Hu S.Q. (1993) Rare and Economic Amphibians of China. Sichuan Publishing House of Science &amp; Technology, Chengdu ,China, 88~91. (in Chinese)</ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033917"></A>
+Zhao, H.T, Che J., Zhou W.W., Chen Y.X, Zhao H.P &amp; Zhang Y.P. (2008) A new species of Paramesotriton (Caudata: Salamandridae) from Guizhou Province, China. Zootaxa, 1775, 51–60. </ZootaxaRef2011>
+<ZootaxaRef2011>
+<A ID="pgfId-1033918"></A>
+Zhang, P., Papenfuss, T.J., Wake, M.H., Qu, L &amp; Wake, D.B. (2008) Phylogeny and biogeography of the family Salamandridae (Amphibia: Caudata) inferred from complete mitochondrial genomes. Molecular Phylogenetics and Evolution, 49, 586–597. </ZootaxaRef2011>
+<ZootaxaPara2011>
+<A ID="pgfId-1033919"></A>
+</ZootaxaPara2011>
+</XML>
