@@ -2,33 +2,8 @@
 
 require_once (dirname(__FILE__) . '/framemaker.php');
 
-function main()
+function display_references ($references)
 {
-	if (isset($_FILES['uploadedfile']))
-	{
-		//print_r($_FILES);
-		
-		if ($_FILES["uploadedfile"]["type"] == "text/xml")
-		{
-			if ($_FILES["uploadedfile"]["error"] > 0)
-			{
-				echo "Return Code: " . $_FILES["uploadedfile"]["error"];
-			}
-			else
-			{
-				$filename = "tmp/" . $_FILES["uploadedfile"]["name"];
-				move_uploaded_file($_FILES["uploadedfile"]["tmp_name"], $filename);
-				
-				$doi = false;
-				if (isset($_POST['doi']) && ($_POST['doi'] == 'doi'))
-				{
-					$doi = true;
-				}
-				
-				//echo $_FILES["uploadedfile"]["name"] . '<br />';
-				//echo '<pre>';
-				$references = parse($filename, $doi);
-				
 				//----------------------------------------------------------------------------------------------
 				// HTML dump
 				
@@ -42,11 +17,12 @@ function main()
 				font-family:sans-serif;
 			  }
 			</style>
-            <title>Zootaxa Framemaker Output</title>
+            <title>Zootaxa Output</title>
         </head>
 		<body>';
+			echo '<p><a href=".">Back</a></p>';
 		
-				echo '<h1>' . $_FILES["uploadedfile"]["name"] . '</h1>';
+				//echo '<h1>' . $_FILES["uploadedfile"]["name"] . '</h1>';
 				
 				echo '<p>';
 				echo '<span style="border:1px dotted black;background-color:lawngreen;">DOI</span>';
@@ -127,6 +103,81 @@ function main()
 				
 				echo '		</body>
 	</html>';
+}
+
+function main()
+{
+	$display_form = true;
+	
+	// Handle list of references
+	if (isset($_POST['text']))
+	{
+		$display_form = false;
+		
+		$text = $_POST['text'];
+		
+		$strings = explode("\n", $text);
+		
+		//print_r($strings);
+		
+		$count = 0;
+		
+		foreach ($strings as $citation)
+		{
+			if (trim($citation) != '')
+			{
+				$reference = new stdclass;
+				$matched = parse_citation($citation, $reference, 0);
+				
+				$reference->id = $count++;
+					
+				$references[] = $reference;
+			}
+		}
+		
+		//if ($lookup)
+		{
+			foreach ($references as $reference)
+			{
+				crossref_lookup($reference);
+			}
+		}	
+
+		display_references($references);
+		
+		//print_r($references);
+	}
+	
+
+	// Handle file upload
+	if (isset($_FILES['uploadedfile']))
+	{
+		$display_form = false;
+
+		//print_r($_FILES);
+		
+		if ($_FILES["uploadedfile"]["type"] == "text/xml")
+		{
+			if ($_FILES["uploadedfile"]["error"] > 0)
+			{
+				echo "Return Code: " . $_FILES["uploadedfile"]["error"];
+			}
+			else
+			{
+				$filename = "tmp/" . $_FILES["uploadedfile"]["name"];
+				move_uploaded_file($_FILES["uploadedfile"]["tmp_name"], $filename);
+				
+				$doi = false;
+				if (isset($_POST['doi']) && ($_POST['doi'] == 'doi'))
+				{
+					$doi = true;
+				}
+				
+				//echo $_FILES["uploadedfile"]["name"] . '<br />';
+				//echo '<pre>';
+				$references = parse($filename, $doi);
+								
+				display_references($references);
 				
  			}
 		}
@@ -135,7 +186,8 @@ function main()
 			echo 'File is wrong type';
 		}
 	}
-	else
+	
+	if ($display_form)
 	{
 $html = <<<EOT
 <!DOCTYPE html>
@@ -151,7 +203,16 @@ $html = <<<EOT
             <title>Zootaxa Framemaker</title>
         </head>
 		<body>
-			<h1>Zootaxa Framemaker Reference Extractor</h1>
+			<h1>Zootaxa Reference Extractor</h1>
+			
+			<h2>List of references</h2>
+			<p>Paste in a list of references, one per line</p>
+			<form enctype="multipart/form-data" action="index.php" method="POST">
+				<textarea id="text" name="text" rows="30" cols="100"></textarea><br />
+				<input type="submit" value="Process" /><br />
+			</form>
+			
+			<h2>FrameMaker</h2>
 			<p>Upload a Zootaxa Framemaker XML file</p>
 			<form enctype="multipart/form-data" action="index.php" method="POST">
 				<input type="checkbox" name="doi" value="doi"  /> Lookup DOIs for cited articles (may take a while)<br />
