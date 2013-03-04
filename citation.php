@@ -98,7 +98,7 @@ function parse_citation($str, &$reference, $debug = false)
 		,?
 		\s*
 		(?<volume>\d+)
-		(\s*\((?<issue>\d+(-\d+)?)\))?		
+		(\s*\((?<issue>\d+([-|–]\d+)?)?\))?	
 		,
 		\s*
 		(?<spage>[e]?\d+)

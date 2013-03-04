@@ -30,7 +30,7 @@ function display_references ($references)
 				echo '&nbsp;<span style="border:1px dotted black;background-color:white;">Not parsed</span>';
 				echo '</p>';
 		
-				echo '<table border="0" cellspacing="0">';
+				echo '<table border="1" cellspacing="0">';
 				foreach ($references as $reference)
 				{
 					echo '<tr style="';
@@ -95,6 +95,19 @@ function display_references ($references)
 					echo '</table>';
 					echo '</td>';
 					
+					echo '<td>';
+					if (isset($reference->crossref_score))
+					{
+						echo round($reference->crossref_score, 2);
+					}
+					echo '</td>';
+					echo '<td>';
+					if (isset($reference->check_score))
+					{
+						echo round($reference->check_score, 2);
+					}
+					echo '</td>';
+					
 					echo '</tr>';
 					
 				
@@ -114,7 +127,15 @@ function main()
 	{
 		$display_form = false;
 		
+		header('Content-Type: text/html; charset=utf-8');
+
 		$text = $_POST['text'];
+		
+		$doublecheck = false;
+		if (isset($_POST['doublecheck']) && ($_POST['doublecheck'] == 'doublecheck'))
+		{
+			$doublecheck = true;
+		}
 		
 		$strings = explode("\n", $text);
 		
@@ -139,7 +160,7 @@ function main()
 		{
 			foreach ($references as $reference)
 			{
-				crossref_lookup($reference);
+				crossref_lookup($reference, $doublecheck);
 			}
 		}	
 
@@ -209,6 +230,7 @@ $html = <<<EOT
 			<p>Paste in a list of references, one per line</p>
 			<form enctype="multipart/form-data" action="index.php" method="POST">
 				<textarea id="text" name="text" rows="30" cols="100"></textarea><br />
+				<input type="checkbox" name="doublecheck" value="doublecheck"  /> Double check DOIs<br />
 				<input type="submit" value="Process" /><br />
 			</form>
 			

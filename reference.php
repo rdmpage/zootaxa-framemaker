@@ -1,6 +1,75 @@
 <?php
 
 require_once(dirname(__FILE__) . '/nameparse.php'); 
+
+//--------------------------------------------------------------------------------------------------
+/**
+ * @brief Create a citation string for indexing (e.g., by CouchDB)
+ * *
+ * @param reference Reference object to be encoded
+ *
+ * @return Citation string
+ */
+function reference_to_citation_string($reference)
+{
+	$citation = '';
+	
+	if (isset($reference->author))
+	{
+		$authors = array();
+		foreach ($reference->author as $author)
+		{
+			if (isset($author->firstname))
+			{
+				$authors[] = $author->lastname . ' ' . $author->firstname;
+			}
+			else
+			{
+				if (isset($author->name))
+				{
+					$authors[] = $author->name;
+				}
+			}
+		
+		}
+		$citation .= join(', ', $authors);
+	}
+	
+	if (isset($reference->year))
+	{
+		$citation .= ' (' . $reference->year . ')';
+	}
+	
+	if (isset($reference->title))
+	{
+		$citation .= ' ' . $reference->title . '.';
+	}
+	
+	if (isset($reference->journal))
+	{
+		$citation .= ' ' . $reference->journal->name;
+		if (isset($reference->journal->volume))
+		{
+			$citation .= ', ' . $reference->journal->volume;
+		}
+		if (isset($reference->journal->issue))
+		{
+			$citation .= '(' . $reference->journal->issue . ')';
+		}		
+		if (isset($reference->journal->pages))
+		{
+			$citation .= ': ' . $reference->journal->pages;
+		}
+	}
+	else
+	{
+		// not a journal...
+		$citation .= ': ' . $reference->pages;		
+	}
+	
+	return $citation;
+}
+
  
 //--------------------------------------------------------------------------------------------------
 /**
