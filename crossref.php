@@ -139,7 +139,7 @@ function crossref_lookup(&$reference, $double_check=false)
 	
 	$ch = curl_init(); 
 	
-	$url = 'http://search.labs.crossref.org/links';
+	$url = 'http://search.crossref.org/links';
 	
 	curl_setopt ($ch, CURLOPT_URL, $url); 
 	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1); 
@@ -180,7 +180,10 @@ function crossref_lookup(&$reference, $double_check=false)
 			{
 				$threshold = 0.9;
 				
-				$actual_reference = get_doi_metadata($obj->results[0]->doi);
+				$doi = $obj->results[0]->doi;
+				$doi = str_replace('http://dx.doi.org/', '', $doi);
+				
+				$actual_reference = get_doi_metadata($doi);
 				if ($actual_reference)
 				{
 					$match = true;
@@ -246,6 +249,7 @@ function crossref_lookup(&$reference, $double_check=false)
 			if ($match)
 			{
 				$reference->doi = $obj->results[0]->doi;
+				$reference->doi = str_replace('http://dx.doi.org/', '', $reference->doi);
 			}
 		}
 	}
