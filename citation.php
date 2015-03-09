@@ -150,7 +150,7 @@ function parse_citation($str, &$reference, $debug = false)
 			{
 				$reference->epage = $matches['epage'];
 			}
-			if ($matches['doi'] != '')
+			if (isset($matches['doi']) && ($matches['doi'] != ''))
 			{
 				$reference->doi = str_replace(' ', '', trim($matches['doi']));
 			}
