@@ -166,7 +166,7 @@ function crossref_lookup(&$reference, $double_check=false)
 	//echo $response;
 	
 	$obj = json_decode($response);
-	if (count($obj->results) == 1)
+	if (isset($obj->results) && (count($obj->results) == 1))
 	{
 		if ($obj->results[0]->match)
 		{
